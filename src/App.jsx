@@ -79,6 +79,7 @@ function App() {
   const categoryTabs = [
     { label: 'All', value: 'all' },
     { label: 'Shawarma', value: 'shawarma' },
+    { label: 'Egg Specials', value: 'egg-specials' },
     { label: 'Sides', value: 'sides' },
     { label: 'Chicken Bites', value: 'chicken-bites' },
     { label: 'Burgers', value: 'burgers' }
