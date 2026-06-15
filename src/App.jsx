@@ -53,8 +53,8 @@ const categoryData = [
     badge: '5',
     icon: '🥔',
     items: [
-      { name: 'Fresh vegetables, sauces & premium toppings', price: '₹79', type: 'veg' },
-      { name: 'Shawarma Chicken', price: '₹99', type: 'nonveg' },
+      { name: 'Fresh vegetables, sauces & premium toppings', price: '₹89', type: 'veg' },
+      { name: 'Shawarma Chicken', price: '₹129', type: 'nonveg' },
       { name: 'Fried Chicken', price: '₹129', type: 'nonveg' }
     ]
   },
